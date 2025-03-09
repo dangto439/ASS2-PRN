@@ -4,65 +4,77 @@
     ViewData["Title"] = "News Report";
 }
 
-<h2>News Report</h2>
-
-<a asp-page="/Admin/UserManagement" class="btn btn-secondary mb-3">
-    Manage Users
-</a>
-
-<button type="button" class="btn btn-success mb-3" data-bs-toggle="modal" data-bs-target="#createNewsModal">
-    Add Report
-</button>
-
-<form method="get" class="mb-3">
-    <div class="row">
-        <div class="col-md-3">
-            <label>Start Date</label>
-            <input type="date" asp-for="StartDate" class="form-control" />
-        </div>
-        <div class="col-md-3">
-            <label>End Date</label>
-            <input type="date" asp-for="EndDate" class="form-control" />
-        </div>
-        <div class="col-md-4">
-            <label>Search</label>
-            <input type="text" name="SearchKeyword" value="@Model.SearchKeyword" class="form-control" placeholder="Enter keyword..." />
-        </div>
-        <div class="col-md-2 align-self-end">
-            <button type="submit" class="btn btn-primary w-100">Filter</button>
+<div class="container py-4">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2 class="text-primary">News Report</h2>
+        <div>
+            <a asp-page="/Admin/UserManagement" class="btn btn-outline-secondary me-2">
+                <i class="bi bi-people"></i> Manage Users
+            </a>
+            <button type="button" class="btn btn-success" data-bs-toggle="modal" data-bs-target="#createNewsModal">
+                <i class="bi bi-plus-lg"></i> Add Report
+            </button>
         </div>
     </div>
-</form>
 
-<table class="table table-striped mt-4">
-    <thead>
-        <tr>
-            <th>Title</th>
-            <th>Headline</th>
-            <th>Created Date</th>
-            <th>Modified Date</th>
-            <th>Source</th>
-            <th>Category</th>
-            <th>Tag</th>
-            <th>Status</th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var news in Model.NewsArticles)
-        {
-            <tr>
-                <td>@news.NewsTitle</td>
-                <td>@news.Headline</td>
-                <td>@news.CreatedDate?.ToString("dd/MM/yyyy")</td>
-                <td>@news.ModifiedDate?.ToString("dd/MM/yyyy")</td>
-                <td>@(news.NewsSource ?? "N/A")</td>
-                <td>@(news.Category?.CategoryName ?? "N/A")</td>
-                <td>@(news.Tags != null && news.Tags.Any() ? news.Tags.FirstOrDefault()?.TagName : "N/A")</td>
-                <td>@(news.NewsStatus == true ? "Active" : "Hidden")</td>
-            </tr>
-        }
-    </tbody>
-</table>
+    <div class="card p-4 shadow-sm">
+        <form method="get" class="row g-3">
+            <div class="col-md-3">
+                <label class="form-label">Start Date</label>
+                <input type="date" asp-for="StartDate" class="form-control" />
+            </div>
+            <div class="col-md-3">
+                <label class="form-label">End Date</label>
+                <input type="date" asp-for="EndDate" class="form-control" />
+            </div>
+            <div class="col-md-4">
+                <label class="form-label">Search</label>
+                <input type="text" name="SearchKeyword" value="@Model.SearchKeyword" class="form-control" placeholder="Enter keyword..." />
+            </div>
+            <div class="col-md-2 d-flex align-items-end">
+                <button type="submit" class="btn btn-primary w-100">
+                    <i class="bi bi-filter"></i> Filter
+                </button>
+            </div>
+        </form>
+    </div>
+
+    <div class="table-responsive mt-4">
+        <table class="table table-striped table-hover align-middle">
+            <thead class="table-dark">
+                <tr>
+                    <th>Title</th>
+                    <th>Headline</th>
+                    <th>Created Date</th>
+                    <th>Modified Date</th>
+                    <th>Source</th>
+                    <th>Category</th>
+                    <th>Tag</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var news in Model.NewsArticles)
+                {
+                    <tr>
+                        <td>@news.NewsTitle</td>
+                        <td>@news.Headline</td>
+                        <td>@news.CreatedDate?.ToString("dd/MM/yyyy")</td>
+                        <td>@news.ModifiedDate?.ToString("dd/MM/yyyy")</td>
+                        <td>@(news.NewsSource ?? "N/A")</td>
+                        <td>@(news.Category?.CategoryName ?? "N/A")</td>
+                        <td>@(news.Tags?.FirstOrDefault()?.TagName ?? "N/A")</td>
+                        <td>
+                            <span class="badge bg-@(news.NewsStatus == true? "success" : "danger")">
+                                @(news.NewsStatus == true ? "Active" : "Hidden")
+                            </span>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
 
 <!-- Create News Modal -->
 <div class="modal fade" id="createNewsModal" tabindex="-1" aria-labelledby="createNewsModalLabel" aria-hidden="true">
@@ -74,44 +86,46 @@
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
-                    <div class="mb-3">
-                        <label for="NewsArticleId" class="form-label">News Article ID</label>
-                        <input type="text" id="NewsArticleId" name="NewsArticleId" class="form-control" required />
-                    </div>
-                    <div class="mb-3">
-                        <label for="NewsTitle" class="form-label">Title</label>
-                        <input type="text" id="NewsTitle" name="NewsTitle" class="form-control" required />
-                    </div>
-                    <div class="mb-3">
-                        <label for="Headline" class="form-label">Headline</label>
-                        <input type="text" id="Headline" name="Headline" class="form-control" />
-                    </div>
-                    <div class="mb-3">
-                        <label for="NewsContent" class="form-label">Content</label>
-                        <textarea id="NewsContent" name="NewsContent" class="form-control" rows="4" required></textarea>
-                    </div>
-                    <div class="mb-3">
-                        <label for="NewsSource" class="form-label">Source</label>
-                        <input type="text" id="NewsSource" name="NewsSource" class="form-control" />
-                    </div>
-                    <div class="mb-3">
-                        <label for="CategoryId" class="form-label">Category</label>
-                        <select id="CategoryId" name="CategoryId" class="form-control">
-                            <option value="">-- Select Category --</option>
-                        </select>
-                    </div>
-                    <div class="mb-3">
-                        <label for="TagId" class="form-label">Tag</label>
-                        <select id="TagId" name="TagId" class="form-control">
-                            <option value="">-- Select Tag --</option>
-                        </select>
-                    </div>
-                    <div class="mb-3">
-                        <label for="NewsStatus" class="form-label">Status</label>
-                        <select id="NewsStatus" name="NewsStatus" class="form-select">
-                            <option value="true">Active</option>
-                            <option value="false">Inactive</option>
-                        </select>
+                    <div class="row g-3">
+                        <div class="col-md-12">
+                            <label class="form-label">News Article ID</label>
+                            <input type="text" name="NewsArticleId" class="form-control" required />
+                        </div>
+                        <div class="col-md-12">
+                            <label class="form-label">Title</label>
+                            <input type="text" name="NewsTitle" class="form-control" required />
+                        </div>
+                        <div class="col-md-12">
+                            <label class="form-label">Headline</label>
+                            <input type="text" name="Headline" class="form-control" />
+                        </div>
+                        <div class="col-md-12">
+                            <label class="form-label">Content</label>
+                            <textarea name="NewsContent" class="form-control" rows="4" required></textarea>
+                        </div>
+                        <div class="col-md-6">
+                            <label class="form-label">Source</label>
+                            <input type="text" name="NewsSource" class="form-control" />
+                        </div>
+                        <div class="col-md-6">
+                            <label class="form-label">Category</label>
+                            <select name="CategoryId" class="form-select">
+                                <option value="">-- Select Category --</option>
+                            </select>
+                        </div>
+                        <div class="col-md-6">
+                            <label class="form-label">Tag</label>
+                            <select name="TagId" class="form-select">
+                                <option value="">-- Select Tag --</option>
+                            </select>
+                        </div>
+                        <div class="col-md-6">
+                            <label class="form-label">Status</label>
+                            <select name="NewsStatus" class="form-select">
+                                <option value="true">Active</option>
+                                <option value="false">Inactive</option>
+                            </select>
+                        </div>
                     </div>
                 </div>
                 <div class="modal-footer">
@@ -134,35 +148,5 @@
                 loadTags('#TagId');
             });
         });
-
-        function loadCategories(selector, selectedId = null) {
-            let select = $(selector);
-            select.empty();
-            select.append('<option value="">-- Select Category --</option>');
-            $.each(categories, function (index, item) {
-                let option = $('<option></option>')
-                    .attr('value', item.categoryId)
-                    .text(item.categoryName);
-                if (selectedId && item.categoryId == selectedId) {
-                    option.attr('selected', 'selected');
-                }
-                select.append(option);
-            });
-        }
-
-        function loadTags(selector, selectedId = null) {
-            let select = $(selector);
-            select.empty();
-            select.append('<option value="">-- Select Tag --</option>');
-            $.each(tags || [], function (index, item) {
-                let option = $('<option></option>')
-                    .attr('value', item.tagId)
-                    .text(item.tagName);
-                if (selectedId && item.tagId == parseInt(selectedId)) {
-                    option.attr('selected', 'selected');
-                }
-                select.append(option);
-            });
-        }
     </script>
 }

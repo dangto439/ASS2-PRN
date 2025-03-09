@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NewsManagementSystem.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2c6b3651bebc4c8a2fc7c2e4a99d367f4357cf5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6dc28e51d408d1fd0bcaf8432961bf77493ebd3")]
 [assembly: System.Reflection.AssemblyProductAttribute("NewsManagementSystem.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NewsManagementSystem.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

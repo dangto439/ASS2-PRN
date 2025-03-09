@@ -4,44 +4,55 @@
     ViewData["Title"] = "News List";
 }
 
-<h2>News List</h2>
+<div class="container mt-4">
+    <h2 class="text-center mb-4">News List</h2>
 
-<form method="get">
-    <div class="form-group">
-        <label>Search by Title:</label>
-        <input type="text" asp-for="SearchTitle" class="form-control" />
-        <button type="submit" class="btn btn-primary mt-2">Search</button>
+    <div class="card shadow-sm p-3 mb-4">
+        <form method="get">
+            <div class="row">
+                <div class="col-md-8">
+                    <input type="text" asp-for="SearchTitle" class="form-control" placeholder="Search by Title..." />
+                </div>
+                <div class="col-md-4 text-md-end">
+                    <button type="submit" class="btn btn-primary">
+                        <i class="fas fa-search"></i> Search
+                    </button>
+                </div>
+            </div>
+        </form>
     </div>
-</form>
 
-<table class="table table-bordered mt-3">
-    <thead>
-        <tr>
-            <th>Title</th>
-            <th>Headline</th>
-            <th>Created Date</th>
-            <th>Content</th>
-            <th>Source</th>
-            <th>Status</th>
-            <th>Category</th>
-          
-          
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var item in Model.NewsList)
-        {
-            <tr>
-                <td>@item.NewsTitle</td>
-                <td>@item.Headline</td>
-                <td>@item.CreatedDate?.ToShortDateString()</td>
-                <td>@item.NewsContent</td>
-                <td>@item.NewsSource</td>
-                <td>@(item.NewsStatus.HasValue && item.NewsStatus.Value ? "Active" : "Inactive")</td>
-                <td>@item.Category?.CategoryName</td>
-             
-               
-            </tr>
-        }
-    </tbody>
-</table>
+    <div class="table-responsive">
+        <table class="table table-striped table-hover shadow-sm">
+            <thead class="table-dark text-center">
+                <tr>
+                    <th>Title</th>
+                    <th>Headline</th>
+                    <th>Created Date</th>
+                    <th>Content</th>
+                    <th>Source</th>
+                    <th>Status</th>
+                    <th>Category</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.NewsList)
+                {
+                    <tr class="align-middle">
+                        <td>@item.NewsTitle</td>
+                        <td>@item.Headline</td>
+                        <td>@item.CreatedDate?.ToShortDateString()</td>
+                        <td>@item.NewsContent</td>
+                        <td>@item.NewsSource</td>
+                        <td class="text-center">
+                            <span class="badge @(item.NewsStatus.HasValue && item.NewsStatus.Value ? "bg-success" : "bg-danger")">
+                                @(item.NewsStatus.HasValue && item.NewsStatus.Value ? "Active" : "Inactive")
+                            </span>
+                        </td>
+                        <td>@item.Category?.CategoryName</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
