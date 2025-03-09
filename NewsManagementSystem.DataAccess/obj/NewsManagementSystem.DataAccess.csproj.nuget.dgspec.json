@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj": {}
+    "C:\\Users\\DANG TO\\Documents\\WorkSpace\\Học\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj": {}
   },
   "projects": {
-    "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj": {
+    "C:\\Users\\DANG TO\\Documents\\WorkSpace\\Học\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\Học\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj",
         "projectName": "NewsManagementSystem.DataAccess",
-        "projectPath": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj",
+        "projectPath": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\Học\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj",
         "packagesPath": "C:\\Users\\DANG TO\\.nuget\\packages\\",
-        "outputPath": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\Học\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yQ8NxgR8OLGbFrUxawZN/PoQjq5I25nZrGuRHmERImm0/Vsdr8yi6aKNYZkS69EIDTeLfNBq6ak/aB6PDt6f/Q==",
+  "dgSpecHash": "Oe8GBd19zs2bbytI1f+1c/w2bt9a6zYnindItJrVPVpGcqQc8QeSYGmauO5NTw5viqYtszggu44kU8qAH2cDmg==",
   "success": true,
-  "projectFilePath": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\NewsManagementSystem.csproj",
+  "projectFilePath": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\Học\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\NewsManagementSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DANG TO\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\DANG TO\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

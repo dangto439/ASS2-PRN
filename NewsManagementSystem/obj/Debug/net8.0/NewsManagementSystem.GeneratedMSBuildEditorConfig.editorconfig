@@ -9,71 +9,71 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = NewsManagementSystem
 build_property.RootNamespace = NewsManagementSystem
-build_property.ProjectDir = D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\
+build_property.ProjectDir = C:\Users\DANG TO\Documents\WorkSpace\Học\PRN222\Razor\ASS2-PRN\NewsManagementSystem\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem
+build_property.MSBuildProjectDirectory = C:\Users\DANG TO\Documents\WorkSpace\Học\PRN222\Razor\ASS2-PRN\NewsManagementSystem
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Downloads/PRN222_Assignment02/PRN222_Assignment02/NewsManagementSystem/Pages/Admin/NewsReport.cshtml]
+[C:/Users/DANG TO/Documents/WorkSpace/Học/PRN222/Razor/ASS2-PRN/NewsManagementSystem/Pages/Admin/NewsReport.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTmV3c1JlcG9ydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Downloads/PRN222_Assignment02/PRN222_Assignment02/NewsManagementSystem/Pages/Admin/UserManagement.cshtml]
+[C:/Users/DANG TO/Documents/WorkSpace/Học/PRN222/Razor/ASS2-PRN/NewsManagementSystem/Pages/Admin/UserManagement.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXNlck1hbmFnZW1lbnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Downloads/PRN222_Assignment02/PRN222_Assignment02/NewsManagementSystem/Pages/Authencation/Index.cshtml]
+[C:/Users/DANG TO/Documents/WorkSpace/Học/PRN222/Razor/ASS2-PRN/NewsManagementSystem/Pages/Authencation/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVuY2F0aW9uXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Downloads/PRN222_Assignment02/PRN222_Assignment02/NewsManagementSystem/Pages/Error.cshtml]
+[C:/Users/DANG TO/Documents/WorkSpace/Học/PRN222/Razor/ASS2-PRN/NewsManagementSystem/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Downloads/PRN222_Assignment02/PRN222_Assignment02/NewsManagementSystem/Pages/Index.cshtml]
+[C:/Users/DANG TO/Documents/WorkSpace/Học/PRN222/Razor/ASS2-PRN/NewsManagementSystem/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Downloads/PRN222_Assignment02/PRN222_Assignment02/NewsManagementSystem/Pages/Lecturer/Index.cshtml]
+[C:/Users/DANG TO/Documents/WorkSpace/Học/PRN222/Razor/ASS2-PRN/NewsManagementSystem/Pages/Lecturer/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVjdHVyZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Downloads/PRN222_Assignment02/PRN222_Assignment02/NewsManagementSystem/Pages/Privacy.cshtml]
+[C:/Users/DANG TO/Documents/WorkSpace/Học/PRN222/Razor/ASS2-PRN/NewsManagementSystem/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Downloads/PRN222_Assignment02/PRN222_Assignment02/NewsManagementSystem/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/DANG TO/Documents/WorkSpace/Học/PRN222/Razor/ASS2-PRN/NewsManagementSystem/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Downloads/PRN222_Assignment02/PRN222_Assignment02/NewsManagementSystem/Pages/Staff/Category.cshtml]
+[C:/Users/DANG TO/Documents/WorkSpace/Học/PRN222/Razor/ASS2-PRN/NewsManagementSystem/Pages/Staff/Category.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhZmZcQ2F0ZWdvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Downloads/PRN222_Assignment02/PRN222_Assignment02/NewsManagementSystem/Pages/Staff/ChangePassword.cshtml]
+[C:/Users/DANG TO/Documents/WorkSpace/Học/PRN222/Razor/ASS2-PRN/NewsManagementSystem/Pages/Staff/ChangePassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhZmZcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Downloads/PRN222_Assignment02/PRN222_Assignment02/NewsManagementSystem/Pages/Staff/Index.cshtml]
+[C:/Users/DANG TO/Documents/WorkSpace/Học/PRN222/Razor/ASS2-PRN/NewsManagementSystem/Pages/Staff/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhZmZcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Downloads/PRN222_Assignment02/PRN222_Assignment02/NewsManagementSystem/Pages/Staff/News.cshtml]
+[C:/Users/DANG TO/Documents/WorkSpace/Học/PRN222/Razor/ASS2-PRN/NewsManagementSystem/Pages/Staff/News.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhZmZcTmV3cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Downloads/PRN222_Assignment02/PRN222_Assignment02/NewsManagementSystem/Pages/_ViewImports.cshtml]
+[C:/Users/DANG TO/Documents/WorkSpace/Học/PRN222/Razor/ASS2-PRN/NewsManagementSystem/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Downloads/PRN222_Assignment02/PRN222_Assignment02/NewsManagementSystem/Pages/_ViewStart.cshtml]
+[C:/Users/DANG TO/Documents/WorkSpace/Học/PRN222/Razor/ASS2-PRN/NewsManagementSystem/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Downloads/PRN222_Assignment02/PRN222_Assignment02/NewsManagementSystem/Pages/Shared/_Layout.cshtml]
+[C:/Users/DANG TO/Documents/WorkSpace/Học/PRN222/Razor/ASS2-PRN/NewsManagementSystem/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-jqrr9z04l4

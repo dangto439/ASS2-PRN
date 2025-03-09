@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.SignalR;
+using System.Threading.Tasks;
 
-namespace NewsManagementSystem.Pages.Hubs
+namespace NewsManagementSystem.Hubs
 {
     public class NewsHub : Hub
     {

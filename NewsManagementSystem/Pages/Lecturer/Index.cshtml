@@ -24,7 +24,7 @@
             <th>Source</th>
             <th>Status</th>
             <th>Category</th>
-            <th>Created By</th>
+          
           
         </tr>
     </thead>
@@ -38,8 +38,8 @@
                 <td>@item.NewsContent</td>
                 <td>@item.NewsSource</td>
                 <td>@(item.NewsStatus.HasValue && item.NewsStatus.Value ? "Active" : "Inactive")</td>
-                <td>@item.Category?.CategoryDesciption</td>
-                <td>@item.CreatedBy?.AccountName</td>
+                <td>@item.Category?.CategoryName</td>
+             
                
             </tr>
         }

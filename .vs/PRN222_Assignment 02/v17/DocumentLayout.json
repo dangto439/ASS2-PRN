@@ -1,166 +1,174 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\",
+  "WorkspaceRootPath": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem\\pages\\staff\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\staff\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem\\pages\\staff\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\staff\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem\\pages\\staff\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\staff\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem\\pages\\staff\\news.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\staff\\news.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD773937-D3AE-4B2C-8565-BA8D197797CD}|NewsManagementSystem.BusinessLogic\\NewsManagementSystem.BusinessLogic.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem.businesslogic\\services\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD773937-D3AE-4B2C-8565-BA8D197797CD}|NewsManagementSystem.BusinessLogic\\NewsManagementSystem.BusinessLogic.csproj|solutionrelative:newsmanagementsystem.businesslogic\\services\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD773937-D3AE-4B2C-8565-BA8D197797CD}|NewsManagementSystem.BusinessLogic\\NewsManagementSystem.BusinessLogic.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem.businesslogic\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD773937-D3AE-4B2C-8565-BA8D197797CD}|NewsManagementSystem.BusinessLogic\\NewsManagementSystem.BusinessLogic.csproj|solutionrelative:newsmanagementsystem.businesslogic\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem\\pages\\staff\\news.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\staff\\news.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{425B8C10-9F84-46B2-AE6B-308E1534AFE4}|NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem.dataaccess\\models\\newsarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{425B8C10-9F84-46B2-AE6B-308E1534AFE4}|NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj|solutionrelative:newsmanagementsystem.dataaccess\\models\\newsarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{425B8C10-9F84-46B2-AE6B-308E1534AFE4}|NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem.dataaccess\\models\\systemaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{425B8C10-9F84-46B2-AE6B-308E1534AFE4}|NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj|solutionrelative:newsmanagementsystem.dataaccess\\models\\systemaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{425B8C10-9F84-46B2-AE6B-308E1534AFE4}|NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem.dataaccess\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{425B8C10-9F84-46B2-AE6B-308E1534AFE4}|NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj|solutionrelative:newsmanagementsystem.dataaccess\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem\\pages\\admin\\newsreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem\\pages\\admin\\newsreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\admin\\newsreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem\\pages\\authencation\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\authencation\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem\\pages\\authencation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\authencation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD773937-D3AE-4B2C-8565-BA8D197797CD}|NewsManagementSystem.BusinessLogic\\NewsManagementSystem.BusinessLogic.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem.businesslogic\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD773937-D3AE-4B2C-8565-BA8D197797CD}|NewsManagementSystem.BusinessLogic\\NewsManagementSystem.BusinessLogic.csproj|solutionrelative:newsmanagementsystem.businesslogic\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD773937-D3AE-4B2C-8565-BA8D197797CD}|NewsManagementSystem.BusinessLogic\\NewsManagementSystem.BusinessLogic.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem.businesslogic\\hubs\\newshub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD773937-D3AE-4B2C-8565-BA8D197797CD}|NewsManagementSystem.BusinessLogic\\NewsManagementSystem.BusinessLogic.csproj|solutionrelative:newsmanagementsystem.businesslogic\\hubs\\newshub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD773937-D3AE-4B2C-8565-BA8D197797CD}|NewsManagementSystem.BusinessLogic\\NewsManagementSystem.BusinessLogic.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem.businesslogic\\newsmanagementsystem.businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CD773937-D3AE-4B2C-8565-BA8D197797CD}|NewsManagementSystem.BusinessLogic\\NewsManagementSystem.BusinessLogic.csproj|solutionrelative:newsmanagementsystem.businesslogic\\newsmanagementsystem.businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{425B8C10-9F84-46B2-AE6B-308E1534AFE4}|NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem.dataaccess\\newsmanagementsystem.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{425B8C10-9F84-46B2-AE6B-308E1534AFE4}|NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj|solutionrelative:newsmanagementsystem.dataaccess\\newsmanagementsystem.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem\\newsmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\newsmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem\\pages\\lecturer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\lecturer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem\\pages\\staff\\category.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\staff\\category.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem\\pages\\admin\\usermanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\admin\\usermanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem\\pages\\admin\\usermanagement.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\admin\\usermanagement.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem\\pages\\lecturer\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\lecturer\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem\\pages\\admin\\newsreport.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\admin\\newsreport.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{425B8C10-9F84-46B2-AE6B-308E1534AFE4}|NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem.dataaccess\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{425B8C10-9F84-46B2-AE6B-308E1534AFE4}|NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj|solutionrelative:newsmanagementsystem.dataaccess\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem\\pages\\staff\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\staff\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{425B8C10-9F84-46B2-AE6B-308E1534AFE4}|NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem.dataaccess\\models\\funewsmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{425B8C10-9F84-46B2-AE6B-308E1534AFE4}|NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem.dataaccess\\models\\funewsmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{425B8C10-9F84-46B2-AE6B-308E1534AFE4}|NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj|solutionrelative:newsmanagementsystem.dataaccess\\models\\funewsmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem\\models\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{425B8C10-9F84-46B2-AE6B-308E1534AFE4}|NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem.dataaccess\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425B8C10-9F84-46B2-AE6B-308E1534AFE4}|NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj|solutionrelative:newsmanagementsystem.dataaccess\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem\\pages\\admin\\newsreport.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\admin\\newsreport.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD773937-D3AE-4B2C-8565-BA8D197797CD}|NewsManagementSystem.BusinessLogic\\NewsManagementSystem.BusinessLogic.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem.businesslogic\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD773937-D3AE-4B2C-8565-BA8D197797CD}|NewsManagementSystem.BusinessLogic\\NewsManagementSystem.BusinessLogic.csproj|solutionrelative:newsmanagementsystem.businesslogic\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem\\pages\\staff\\news.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\staff\\news.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem\\pages\\staff\\news.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\staff\\news.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem\\pages\\staff\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\staff\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem\\pages\\staff\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\staff\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425B8C10-9F84-46B2-AE6B-308E1534AFE4}|NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem.dataaccess\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425B8C10-9F84-46B2-AE6B-308E1534AFE4}|NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj|solutionrelative:newsmanagementsystem.dataaccess\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425B8C10-9F84-46B2-AE6B-308E1534AFE4}|NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem.dataaccess\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425B8C10-9F84-46B2-AE6B-308E1534AFE4}|NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj|solutionrelative:newsmanagementsystem.dataaccess\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD773937-D3AE-4B2C-8565-BA8D197797CD}|NewsManagementSystem.BusinessLogic\\NewsManagementSystem.BusinessLogic.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem.businesslogic\\services\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD773937-D3AE-4B2C-8565-BA8D197797CD}|NewsManagementSystem.BusinessLogic\\NewsManagementSystem.BusinessLogic.csproj|solutionrelative:newsmanagementsystem.businesslogic\\services\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425B8C10-9F84-46B2-AE6B-308E1534AFE4}|NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem.dataaccess\\models\\systemaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425B8C10-9F84-46B2-AE6B-308E1534AFE4}|NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj|solutionrelative:newsmanagementsystem.dataaccess\\models\\systemaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425B8C10-9F84-46B2-AE6B-308E1534AFE4}|NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem.dataaccess\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425B8C10-9F84-46B2-AE6B-308E1534AFE4}|NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj|solutionrelative:newsmanagementsystem.dataaccess\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem\\pages\\lecturer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\lecturer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD773937-D3AE-4B2C-8565-BA8D197797CD}|NewsManagementSystem.BusinessLogic\\NewsManagementSystem.BusinessLogic.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem.businesslogic\\services\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD773937-D3AE-4B2C-8565-BA8D197797CD}|NewsManagementSystem.BusinessLogic\\NewsManagementSystem.BusinessLogic.csproj|solutionrelative:newsmanagementsystem.businesslogic\\services\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem\\pages\\staff\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\staff\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD773937-D3AE-4B2C-8565-BA8D197797CD}|NewsManagementSystem.BusinessLogic\\NewsManagementSystem.BusinessLogic.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem.businesslogic\\newsmanagementsystem.businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CD773937-D3AE-4B2C-8565-BA8D197797CD}|NewsManagementSystem.BusinessLogic\\NewsManagementSystem.BusinessLogic.csproj|solutionrelative:newsmanagementsystem.businesslogic\\newsmanagementsystem.businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem\\newsmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\newsmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425B8C10-9F84-46B2-AE6B-308E1534AFE4}|NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem.dataaccess\\newsmanagementsystem.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{425B8C10-9F84-46B2-AE6B-308E1534AFE4}|NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj|solutionrelative:newsmanagementsystem.dataaccess\\newsmanagementsystem.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem\\pages\\admin\\usermanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\admin\\usermanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem\\pages\\staff\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\staff\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem\\pages\\staff\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\staff\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem\\pages\\staff\\category.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\staff\\category.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD773937-D3AE-4B2C-8565-BA8D197797CD}|NewsManagementSystem.BusinessLogic\\NewsManagementSystem.BusinessLogic.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem.businesslogic\\hubs\\newshub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD773937-D3AE-4B2C-8565-BA8D197797CD}|NewsManagementSystem.BusinessLogic\\NewsManagementSystem.BusinessLogic.csproj|solutionrelative:newsmanagementsystem.businesslogic\\hubs\\newshub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem\\pages\\admin\\usermanagement.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\admin\\usermanagement.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem\\pages\\authencation\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\authencation\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem\\pages\\authencation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\authencation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD773937-D3AE-4B2C-8565-BA8D197797CD}|NewsManagementSystem.BusinessLogic\\NewsManagementSystem.BusinessLogic.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem.businesslogic\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD773937-D3AE-4B2C-8565-BA8D197797CD}|NewsManagementSystem.BusinessLogic\\NewsManagementSystem.BusinessLogic.csproj|solutionrelative:newsmanagementsystem.businesslogic\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem\\pages\\lecturer\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\lecturer\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem\\models\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\models\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|c:\\users\\dang to\\documents\\workspace\\h\u1ECDc\\prn222\\razor\\ass2-prn\\newsmanagementsystem\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9522C92-D7E0-4528-84D2-A4333DD6E148}|NewsManagementSystem\\NewsManagementSystem.csproj|solutionrelative:newsmanagementsystem\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{425B8C10-9F84-46B2-AE6B-308E1534AFE4}|NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj|d:\\downloads\\prn222_assignment02\\prn222_assignment02\\newsmanagementsystem.dataaccess\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{425B8C10-9F84-46B2-AE6B-308E1534AFE4}|NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj|solutionrelative:newsmanagementsystem.dataaccess\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -170,227 +178,256 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "News.cshtml.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Staff\\News.cshtml.cs",
-              "RelativeDocumentMoniker": "NewsManagementSystem\\Pages\\Staff\\News.cshtml.cs",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Staff\\News.cshtml.cs",
-              "RelativeToolTip": "NewsManagementSystem\\Pages\\Staff\\News.cshtml.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwBsAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T16:18:06.118Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Tag.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem.DataAccess\\Models\\Tag.cs",
-              "RelativeDocumentMoniker": "NewsManagementSystem.DataAccess\\Models\\Tag.cs",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem.DataAccess\\Models\\Tag.cs",
-              "RelativeToolTip": "NewsManagementSystem.DataAccess\\Models\\Tag.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T16:15:02.008Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Program.cs",
-              "RelativeDocumentMoniker": "NewsManagementSystem\\Program.cs",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Program.cs",
-              "RelativeToolTip": "NewsManagementSystem\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T17:19:36.132Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Category.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Staff\\Category.cshtml",
-              "RelativeDocumentMoniker": "NewsManagementSystem\\Pages\\Staff\\Category.cshtml",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Staff\\Category.cshtml",
-              "RelativeToolTip": "NewsManagementSystem\\Pages\\Staff\\Category.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-08T05:04:50.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "News.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Staff\\News.cshtml",
-              "RelativeDocumentMoniker": "NewsManagementSystem\\Pages\\Staff\\News.cshtml",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Staff\\News.cshtml",
-              "RelativeToolTip": "NewsManagementSystem\\Pages\\Staff\\News.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-08T05:04:33.354Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "NewsManagementSystem\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\_ViewStart.cshtml",
-              "RelativeToolTip": "NewsManagementSystem\\Pages\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-08T05:16:01.986Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NewsService.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem.BusinessLogic\\Services\\NewsService.cs",
-              "RelativeDocumentMoniker": "NewsManagementSystem.BusinessLogic\\Services\\NewsService.cs",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem.BusinessLogic\\Services\\NewsService.cs",
-              "RelativeToolTip": "NewsManagementSystem.BusinessLogic\\Services\\NewsService.cs",
-              "ViewState": "AQIAAFsAAAAAAAAAAAAAADYAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T15:12:02.208Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Staff\\Index.cshtml",
-              "RelativeDocumentMoniker": "NewsManagementSystem\\Pages\\Staff\\Index.cshtml",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Staff\\Index.cshtml",
-              "RelativeToolTip": "NewsManagementSystem\\Pages\\Staff\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-08T04:50:49.546Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "NewsArticle.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem.DataAccess\\Models\\NewsArticle.cs",
-              "RelativeDocumentMoniker": "NewsManagementSystem.DataAccess\\Models\\NewsArticle.cs",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem.DataAccess\\Models\\NewsArticle.cs",
-              "RelativeToolTip": "NewsManagementSystem.DataAccess\\Models\\NewsArticle.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAYwB8AAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T18:15:57.783Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 1,
               "Title": "NewsReport.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Admin\\NewsReport.cshtml",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Admin\\NewsReport.cshtml",
               "RelativeDocumentMoniker": "NewsManagementSystem\\Pages\\Admin\\NewsReport.cshtml",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Admin\\NewsReport.cshtml",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Admin\\NewsReport.cshtml",
               "RelativeToolTip": "NewsManagementSystem\\Pages\\Admin\\NewsReport.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAUwIAAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-07T19:34:18.892Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem.DataAccess\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "NewsManagementSystem.DataAccess\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem.DataAccess\\Models\\Category.cs",
+              "RelativeToolTip": "NewsManagementSystem.DataAccess\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T18:37:40.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FunewsManagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem.DataAccess\\Models\\FunewsManagementContext.cs",
+              "RelativeDocumentMoniker": "NewsManagementSystem.DataAccess\\Models\\FunewsManagementContext.cs",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem.DataAccess\\Models\\FunewsManagementContext.cs",
+              "RelativeToolTip": "NewsManagementSystem.DataAccess\\Models\\FunewsManagementContext.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAcwIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T18:37:43.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem.BusinessLogic\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "NewsManagementSystem.BusinessLogic\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem.BusinessLogic\\Services\\AccountService.cs",
+              "RelativeToolTip": "NewsManagementSystem.BusinessLogic\\Services\\AccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:14:19.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "NewsManagementSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\appsettings.json",
+              "RelativeToolTip": "NewsManagementSystem\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T05:24:36.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewsReport.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Admin\\NewsReport.cshtml.cs",
+              "RelativeDocumentMoniker": "NewsManagementSystem\\Pages\\Admin\\NewsReport.cshtml.cs",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Admin\\NewsReport.cshtml.cs",
+              "RelativeToolTip": "NewsManagementSystem\\Pages\\Admin\\NewsReport.cshtml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAwwEAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T19:45:31.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Staff\\Index.cshtml",
+              "RelativeDocumentMoniker": "NewsManagementSystem\\Pages\\Staff\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Staff\\Index.cshtml",
+              "RelativeToolTip": "NewsManagementSystem\\Pages\\Staff\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T04:50:49.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cshtml",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Staff\\Category.cshtml",
+              "RelativeDocumentMoniker": "NewsManagementSystem\\Pages\\Staff\\Category.cshtml",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Staff\\Category.cshtml",
+              "RelativeToolTip": "NewsManagementSystem\\Pages\\Staff\\Category.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAgAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T05:04:50.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "News.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Staff\\News.cshtml.cs",
+              "RelativeDocumentMoniker": "NewsManagementSystem\\Pages\\Staff\\News.cshtml.cs",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Staff\\News.cshtml.cs",
+              "RelativeToolTip": "NewsManagementSystem\\Pages\\Staff\\News.cshtml.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAMwHUAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T07:44:01.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "News.cshtml",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Staff\\News.cshtml",
+              "RelativeDocumentMoniker": "NewsManagementSystem\\Pages\\Staff\\News.cshtml",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Staff\\News.cshtml",
+              "RelativeToolTip": "NewsManagementSystem\\Pages\\Staff\\News.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T05:04:33.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem.DataAccess\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "NewsManagementSystem.DataAccess\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem.DataAccess\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "NewsManagementSystem.DataAccess\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:41:45.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem.DataAccess\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "NewsManagementSystem.DataAccess\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem.DataAccess\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "NewsManagementSystem.DataAccess\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T18:07:38.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NewsService.cs",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem.BusinessLogic\\Services\\NewsService.cs",
+              "RelativeDocumentMoniker": "NewsManagementSystem.BusinessLogic\\Services\\NewsService.cs",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem.BusinessLogic\\Services\\NewsService.cs",
+              "RelativeToolTip": "NewsManagementSystem.BusinessLogic\\Services\\NewsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:12:02.208Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem.DataAccess\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "NewsManagementSystem.DataAccess\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem.DataAccess\\Models\\Tag.cs",
+              "RelativeToolTip": "NewsManagementSystem.DataAccess\\Models\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T19:13:27.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SystemAccount.cs",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem.DataAccess\\Models\\SystemAccount.cs",
+              "RelativeDocumentMoniker": "NewsManagementSystem.DataAccess\\Models\\SystemAccount.cs",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem.DataAccess\\Models\\SystemAccount.cs",
+              "RelativeToolTip": "NewsManagementSystem.DataAccess\\Models\\SystemAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T19:16:05.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "NewsManagementSystem\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "NewsManagementSystem\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACAAAAAAAAAAAAAswCwAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-08T05:16:56.615Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Authencation\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "NewsManagementSystem\\Pages\\Authencation\\Index.cshtml.cs",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Authencation\\Index.cshtml.cs",
-              "RelativeToolTip": "NewsManagementSystem\\Pages\\Authencation\\Index.cshtml.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowEQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T17:47:24.794Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Authencation\\Index.cshtml",
-              "RelativeDocumentMoniker": "NewsManagementSystem\\Pages\\Authencation\\Index.cshtml",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Authencation\\Index.cshtml",
-              "RelativeToolTip": "NewsManagementSystem\\Pages\\Authencation\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Lecturer\\Index.cshtml",
+              "RelativeDocumentMoniker": "NewsManagementSystem\\Pages\\Lecturer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Lecturer\\Index.cshtml",
+              "RelativeToolTip": "NewsManagementSystem\\Pages\\Lecturer\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-07T17:42:44.086Z"
+              "WhenOpened": "2025-03-07T17:54:34.123Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem.BusinessLogic\\Services\\CategoryService.cs",
-              "RelativeDocumentMoniker": "NewsManagementSystem.BusinessLogic\\Services\\CategoryService.cs",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem.BusinessLogic\\Services\\CategoryService.cs",
-              "RelativeToolTip": "NewsManagementSystem.BusinessLogic\\Services\\CategoryService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAkwCgAAAAEAAAAAAAAAA==",
+              "Title": "TagService.cs",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem.BusinessLogic\\Services\\TagService.cs",
+              "RelativeDocumentMoniker": "NewsManagementSystem.BusinessLogic\\Services\\TagService.cs",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem.BusinessLogic\\Services\\TagService.cs",
+              "RelativeToolTip": "NewsManagementSystem.BusinessLogic\\Services\\TagService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowEIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T17:41:53.477Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "NewsManagementSystem.DataAccess.csproj",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj",
-              "RelativeDocumentMoniker": "NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj",
-              "RelativeToolTip": "NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-07T17:19:52.952Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "NewsManagementSystem.BusinessLogic.csproj",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem.BusinessLogic\\NewsManagementSystem.BusinessLogic.csproj",
-              "RelativeDocumentMoniker": "NewsManagementSystem.BusinessLogic\\NewsManagementSystem.BusinessLogic.csproj",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem.BusinessLogic\\NewsManagementSystem.BusinessLogic.csproj",
-              "RelativeToolTip": "NewsManagementSystem.BusinessLogic\\NewsManagementSystem.BusinessLogic.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-07T15:14:30.818Z"
+              "WhenOpened": "2025-03-09T18:40:23.477Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "NewsHub.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem.BusinessLogic\\Hubs\\NewsHub.cs",
-              "RelativeDocumentMoniker": "NewsManagementSystem.BusinessLogic\\Hubs\\NewsHub.cs",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem.BusinessLogic\\Hubs\\NewsHub.cs",
-              "RelativeToolTip": "NewsManagementSystem.BusinessLogic\\Hubs\\NewsHub.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "NewsManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Program.cs",
+              "RelativeToolTip": "NewsManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T12:14:37.766Z"
+              "WhenOpened": "2025-03-07T17:19:36.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Staff\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "NewsManagementSystem\\Pages\\Staff\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Staff\\Index.cshtml.cs",
+              "RelativeToolTip": "NewsManagementSystem\\Pages\\Staff\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T04:55:43.058Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "NewsManagementSystem.csproj",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\NewsManagementSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\NewsManagementSystem.csproj",
               "RelativeDocumentMoniker": "NewsManagementSystem\\NewsManagementSystem.csproj",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\NewsManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\NewsManagementSystem.csproj",
               "RelativeToolTip": "NewsManagementSystem\\NewsManagementSystem.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -399,121 +436,82 @@
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Lecturer\\Index.cshtml",
-              "RelativeDocumentMoniker": "NewsManagementSystem\\Pages\\Lecturer\\Index.cshtml",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Lecturer\\Index.cshtml",
-              "RelativeToolTip": "NewsManagementSystem\\Pages\\Lecturer\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-07T17:54:34.123Z"
+              "Title": "NewsManagementSystem.DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj",
+              "RelativeDocumentMoniker": "NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj",
+              "RelativeToolTip": "NewsManagementSystem.DataAccess\\NewsManagementSystem.DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-07T17:19:52.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NewsManagementSystem.BusinessLogic.csproj",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem.BusinessLogic\\NewsManagementSystem.BusinessLogic.csproj",
+              "RelativeDocumentMoniker": "NewsManagementSystem.BusinessLogic\\NewsManagementSystem.BusinessLogic.csproj",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem.BusinessLogic\\NewsManagementSystem.BusinessLogic.csproj",
+              "RelativeToolTip": "NewsManagementSystem.BusinessLogic\\NewsManagementSystem.BusinessLogic.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-07T15:14:30.818Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "Category.cshtml.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Staff\\Category.cshtml.cs",
-              "RelativeDocumentMoniker": "NewsManagementSystem\\Pages\\Staff\\Category.cshtml.cs",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Staff\\Category.cshtml.cs",
-              "RelativeToolTip": "NewsManagementSystem\\Pages\\Staff\\Category.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T05:11:41.79Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\appsettings.json",
-              "RelativeDocumentMoniker": "NewsManagementSystem\\appsettings.json",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\appsettings.json",
-              "RelativeToolTip": "NewsManagementSystem\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-08T05:24:36.237Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
               "Title": "UserManagement.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Admin\\UserManagement.cshtml",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Admin\\UserManagement.cshtml",
               "RelativeDocumentMoniker": "NewsManagementSystem\\Pages\\Admin\\UserManagement.cshtml",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Admin\\UserManagement.cshtml",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Admin\\UserManagement.cshtml",
               "RelativeToolTip": "NewsManagementSystem\\Pages\\Admin\\UserManagement.cshtml",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAAAFsAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-07T19:47:16.794Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ChangePassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Staff\\ChangePassword.cshtml.cs",
+              "RelativeDocumentMoniker": "NewsManagementSystem\\Pages\\Staff\\ChangePassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Staff\\ChangePassword.cshtml.cs",
+              "RelativeToolTip": "NewsManagementSystem\\Pages\\Staff\\ChangePassword.cshtml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAWwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T05:03:34.791Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "UserManagement.cshtml.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Admin\\UserManagement.cshtml.cs",
-              "RelativeDocumentMoniker": "NewsManagementSystem\\Pages\\Admin\\UserManagement.cshtml.cs",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Admin\\UserManagement.cshtml.cs",
-              "RelativeToolTip": "NewsManagementSystem\\Pages\\Admin\\UserManagement.cshtml.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAiwCcAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T19:53:29.432Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "ChangePassword.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Staff\\ChangePassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Staff\\ChangePassword.cshtml",
               "RelativeDocumentMoniker": "NewsManagementSystem\\Pages\\Staff\\ChangePassword.cshtml",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Staff\\ChangePassword.cshtml",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Staff\\ChangePassword.cshtml",
               "RelativeToolTip": "NewsManagementSystem\\Pages\\Staff\\ChangePassword.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-08T05:01:33.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SystemAccount.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem.DataAccess\\Models\\SystemAccount.cs",
-              "RelativeDocumentMoniker": "NewsManagementSystem.DataAccess\\Models\\SystemAccount.cs",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem.DataAccess\\Models\\SystemAccount.cs",
-              "RelativeToolTip": "NewsManagementSystem.DataAccess\\Models\\SystemAccount.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T18:26:17.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T05:01:33.823Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Lecturer\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "NewsManagementSystem\\Pages\\Lecturer\\Index.cshtml.cs",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Lecturer\\Index.cshtml.cs",
-              "RelativeToolTip": "NewsManagementSystem\\Pages\\Lecturer\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Title": "Category.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Staff\\Category.cshtml.cs",
+              "RelativeDocumentMoniker": "NewsManagementSystem\\Pages\\Staff\\Category.cshtml.cs",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Staff\\Category.cshtml.cs",
+              "RelativeToolTip": "NewsManagementSystem\\Pages\\Staff\\Category.cshtml.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAiwHEAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T18:12:57.974Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "NewsReport.cshtml.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Admin\\NewsReport.cshtml.cs",
-              "RelativeDocumentMoniker": "NewsManagementSystem\\Pages\\Admin\\NewsReport.cshtml.cs",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Admin\\NewsReport.cshtml.cs",
-              "RelativeToolTip": "NewsManagementSystem\\Pages\\Admin\\NewsReport.cshtml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIAwwBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T19:45:31.239Z"
+              "WhenOpened": "2025-03-08T05:11:41.79Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "NewsManagementSystem\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\_ViewImports.cshtml",
               "RelativeToolTip": "NewsManagementSystem\\Pages\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -522,22 +520,70 @@
             {
               "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem.DataAccess\\Repositories\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "NewsManagementSystem.DataAccess\\Repositories\\GenericRepository.cs",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem.DataAccess\\Repositories\\GenericRepository.cs",
-              "RelativeToolTip": "NewsManagementSystem.DataAccess\\Repositories\\GenericRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
+              "Title": "UserManagement.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Admin\\UserManagement.cshtml.cs",
+              "RelativeDocumentMoniker": "NewsManagementSystem\\Pages\\Admin\\UserManagement.cshtml.cs",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Admin\\UserManagement.cshtml.cs",
+              "RelativeToolTip": "NewsManagementSystem\\Pages\\Admin\\UserManagement.cshtml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwCIAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T17:41:45.414Z"
+              "WhenOpened": "2025-03-07T19:53:29.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NewsHub.cs",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem.BusinessLogic\\Hubs\\NewsHub.cs",
+              "RelativeDocumentMoniker": "NewsManagementSystem.BusinessLogic\\Hubs\\NewsHub.cs",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem.BusinessLogic\\Hubs\\NewsHub.cs",
+              "RelativeToolTip": "NewsManagementSystem.BusinessLogic\\Hubs\\NewsHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T18:16:37.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Authencation\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "NewsManagementSystem\\Pages\\Authencation\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Authencation\\Index.cshtml.cs",
+              "RelativeToolTip": "NewsManagementSystem\\Pages\\Authencation\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:47:24.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Authencation\\Index.cshtml",
+              "RelativeDocumentMoniker": "NewsManagementSystem\\Pages\\Authencation\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Authencation\\Index.cshtml",
+              "RelativeToolTip": "NewsManagementSystem\\Pages\\Authencation\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T17:42:44.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NewsManagementSystem\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "NewsManagementSystem\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T05:16:01.986Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 33,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "NewsManagementSystem\\Pages\\Index.cshtml",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Index.cshtml",
               "RelativeToolTip": "NewsManagementSystem\\Pages\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -545,23 +591,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ChangePassword.cshtml.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Staff\\ChangePassword.cshtml.cs",
-              "RelativeDocumentMoniker": "NewsManagementSystem\\Pages\\Staff\\ChangePassword.cshtml.cs",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Staff\\ChangePassword.cshtml.cs",
-              "RelativeToolTip": "NewsManagementSystem\\Pages\\Staff\\ChangePassword.cshtml.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAWwDAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 34,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem.BusinessLogic\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "NewsManagementSystem.BusinessLogic\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem.BusinessLogic\\Services\\CategoryService.cs",
+              "RelativeToolTip": "NewsManagementSystem.BusinessLogic\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T05:03:34.791Z"
+              "WhenOpened": "2025-03-07T17:41:53.477Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Lecturer\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "NewsManagementSystem\\Pages\\Lecturer\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Lecturer\\Index.cshtml.cs",
+              "RelativeToolTip": "NewsManagementSystem\\Pages\\Lecturer\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:12:57.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
               "Title": "Error.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Error.cshtml",
               "RelativeDocumentMoniker": "NewsManagementSystem\\Pages\\Error.cshtml",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Error.cshtml",
               "RelativeToolTip": "NewsManagementSystem\\Pages\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -569,11 +627,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 36,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Privacy.cshtml",
               "RelativeDocumentMoniker": "NewsManagementSystem\\Pages\\Privacy.cshtml",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Privacy.cshtml",
               "RelativeToolTip": "NewsManagementSystem\\Pages\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -581,11 +639,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 38,
               "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "NewsManagementSystem\\Pages\\Index.cshtml.cs",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Pages\\Index.cshtml.cs",
               "RelativeToolTip": "NewsManagementSystem\\Pages\\Index.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -593,36 +651,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AccountService.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem.BusinessLogic\\Services\\AccountService.cs",
-              "RelativeDocumentMoniker": "NewsManagementSystem.BusinessLogic\\Services\\AccountService.cs",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem.BusinessLogic\\Services\\AccountService.cs",
-              "RelativeToolTip": "NewsManagementSystem.BusinessLogic\\Services\\AccountService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T15:14:19.889Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "FunewsManagementContext.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem.DataAccess\\Models\\FunewsManagementContext.cs",
-              "RelativeDocumentMoniker": "NewsManagementSystem.DataAccess\\Models\\FunewsManagementContext.cs",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem.DataAccess\\Models\\FunewsManagementContext.cs",
-              "RelativeToolTip": "NewsManagementSystem.DataAccess\\Models\\FunewsManagementContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T17:47:57.169Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Models\\LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Models\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "NewsManagementSystem\\Models\\LoginViewModel.cs",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Models\\LoginViewModel.cs",
               "RelativeToolTip": "NewsManagementSystem\\Models\\LoginViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -630,11 +663,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "NewsManagementSystem\\Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "NewsManagementSystem\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -642,27 +675,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "ChangePasswordViewModel.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Models\\ChangePasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Models\\ChangePasswordViewModel.cs",
               "RelativeDocumentMoniker": "NewsManagementSystem\\Models\\ChangePasswordViewModel.cs",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem\\Models\\ChangePasswordViewModel.cs",
+              "ToolTip": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\H\u1ECDc\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem\\Models\\ChangePasswordViewModel.cs",
               "RelativeToolTip": "NewsManagementSystem\\Models\\ChangePasswordViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T17:46:04.383Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem.DataAccess\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "NewsManagementSystem.DataAccess\\Models\\Category.cs",
-              "ToolTip": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem.DataAccess\\Models\\Category.cs",
-              "RelativeToolTip": "NewsManagementSystem.DataAccess\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T15:11:56.883Z"
             }
           ]
         }

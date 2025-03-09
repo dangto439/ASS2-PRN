@@ -2,7 +2,9 @@
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using NewsManagementSystem.BusinessLogic.Services;
 using NewsManagementSystem.DataAccess.Models;
+using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
 
 namespace NewsManagementSystem.Pages.Staff
@@ -12,33 +14,50 @@ namespace NewsManagementSystem.Pages.Staff
         private readonly NewsService _newsService;
         private readonly CategoryService _categoryService;
         private readonly AccountService _accountService;
+        private readonly TagService _tagService;
 
-        public NewsModel(NewsService newsService, CategoryService categoryService, AccountService accountService)
+        public NewsModel(
+            NewsService newsService,
+            CategoryService categoryService,
+            AccountService accountService,
+            TagService tagService)
         {
             _newsService = newsService;
             _categoryService = categoryService;
             _accountService = accountService;
+            _tagService = tagService;
         }
 
         public IEnumerable<NewsArticle> NewsArticles { get; set; }
         public IEnumerable<Category> Categories { get; set; }
         public IEnumerable<SystemAccount> Accounts { get; set; }
-       
-        [BindProperty]
-        public SystemAccount Account { get; set; }
+        public IEnumerable<Tag> Tags { get; set; }
+
+        [BindProperty(SupportsGet = true)]
+        public short AccountId { get; set; }
 
         [TempData]
-        public string SuccessMessage { get; set; } 
+        public string SuccessMessage { get; set; }
 
         [TempData]
-        public string ErrorMessage { get; set; } 
+        public string ErrorMessage { get; set; }
 
-        public async Task OnGetAsync()
+        public async Task<IActionResult> OnGetAsync()
         {
+            var accountId = HttpContext.Session.GetInt32("AccountId");
+            if (accountId == null)
+            {
+                return RedirectToPage("/Authentication/Index");
+            }
+
+            AccountId = (short)accountId;
+            ViewData["AccountId"] = AccountId;
             await LoadDataAsync();
+
+            return Page();
         }
 
-        public async Task<IActionResult> OnPostCreateAsync([FromForm] NewsArticle newsArticle)
+        public async Task<IActionResult> OnPostCreateAsync([FromForm] NewsArticle newsArticle, [FromForm] int TagId)
         {
             if (!ModelState.IsValid)
             {
@@ -49,9 +68,16 @@ namespace NewsManagementSystem.Pages.Staff
 
             try
             {
-                newsArticle.ModifiedDate = newsArticle.ModifiedDate ?? DateTime.Now;
-                newsArticle.CreatedDate = newsArticle.CreatedDate ?? DateTime.Now; 
+                newsArticle.CreatedDate = DateTime.Now;
+                newsArticle.CreatedById = (short)HttpContext.Session.GetInt32("AccountId");
                 await _newsService.AddNews(newsArticle);
+
+                // Thêm Tag vào bài viết
+                if (TagId > 0)
+                {
+                    await _tagService.AddTagsToNews(newsArticle.NewsArticleId, new List<int> { TagId });
+                }
+
                 SuccessMessage = "News article created successfully!";
             }
             catch (Exception ex)
@@ -64,7 +90,7 @@ namespace NewsManagementSystem.Pages.Staff
             return RedirectToPage();
         }
 
-        public async Task<IActionResult> OnPostEditAsync([FromForm] NewsArticle newsArticle)
+        public async Task<IActionResult> OnPostEditAsync([FromForm] NewsArticle newsArticle, [FromForm] int TagId)
         {
             if (!ModelState.IsValid)
             {
@@ -82,18 +108,29 @@ namespace NewsManagementSystem.Pages.Staff
                     return NotFound();
                 }
 
-              
                 existingArticle.NewsTitle = newsArticle.NewsTitle;
-                existingArticle.Headline = newsArticle.Headline ?? existingArticle.Headline;
-                existingArticle.CreatedDate = newsArticle.CreatedDate ?? existingArticle.CreatedDate;
+                existingArticle.Headline = newsArticle.Headline;
+                existingArticle.CreatedDate = newsArticle.CreatedDate;
                 existingArticle.NewsContent = newsArticle.NewsContent;
-                existingArticle.NewsSource = newsArticle.NewsSource ?? existingArticle.NewsSource;
-                existingArticle.CategoryId = newsArticle.CategoryId ?? existingArticle.CategoryId;
-                existingArticle.NewsStatus = newsArticle.NewsStatus ?? existingArticle.NewsStatus;
-                existingArticle.UpdatedById = newsArticle.UpdatedById ?? existingArticle.UpdatedById;
-                existingArticle.ModifiedDate = newsArticle.ModifiedDate ?? DateTime.Now;
+                existingArticle.NewsSource = newsArticle.NewsSource;
+                existingArticle.CategoryId = newsArticle.CategoryId;
+                existingArticle.NewsStatus = newsArticle.NewsStatus;
+                existingArticle.UpdatedById =  (short)HttpContext.Session.GetInt32("AccountId");
+                existingArticle.ModifiedDate = DateTime.Now;
 
                 await _newsService.UpdateNews(existingArticle);
+
+              
+                var currentTagId = existingArticle.Tags?.FirstOrDefault()?.TagId;
+                if (currentTagId.HasValue)
+                {
+                    await _tagService.RemoveTagsFromNews(existingArticle.NewsArticleId, new List<int> { currentTagId.Value });
+                }
+                if (TagId > 0)
+                {
+                    await _tagService.AddTagsToNews(existingArticle.NewsArticleId, new List<int> { TagId });
+                }
+
                 SuccessMessage = "News article updated successfully!";
             }
             catch (Exception ex)
@@ -132,7 +169,8 @@ namespace NewsManagementSystem.Pages.Staff
         {
             NewsArticles = await _newsService.GetAllNews();
             Categories = await _categoryService.GetAllCategories();
-            Accounts = await _accountService.GetAllAccont(); 
+            Accounts = await _accountService.GetAllAccont();
+            Tags = await _tagService.GetAllTags();
         }
     }
 }

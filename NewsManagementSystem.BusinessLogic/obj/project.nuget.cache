@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P+bn4g1r6BWtuypE0AJVInQrTKc6n6Yt5jhSlI1kTa6wamEzy07BFT+jCXZkCQ7DNFbz/Fh0uxa8ITT4ggDLXA==",
+  "dgSpecHash": "1DG2fgI2eFw8OjXfD0U6Z/ylAyiI0Od4PaOdd0bhGksBowobwISW0KTun6wpFSz4OAVHP+oBUD0BbvS8VxoTXQ==",
   "success": true,
-  "projectFilePath": "D:\\Downloads\\PRN222_Assignment02\\PRN222_Assignment02\\NewsManagementSystem.BusinessLogic\\NewsManagementSystem.BusinessLogic.csproj",
+  "projectFilePath": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\Học\\PRN222\\Razor\\ASS2-PRN\\NewsManagementSystem.BusinessLogic\\NewsManagementSystem.BusinessLogic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DANG TO\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\DANG TO\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -16,6 +16,6 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = NewsManagementSystem.DataAccess
-build_property.ProjectDir = D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem.DataAccess\
+build_property.ProjectDir = C:\Users\DANG TO\Documents\WorkSpace\Học\PRN222\Razor\ASS2-PRN\NewsManagementSystem.DataAccess\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

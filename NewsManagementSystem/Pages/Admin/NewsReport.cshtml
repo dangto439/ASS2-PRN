@@ -10,7 +10,11 @@
     Manage Users
 </a>
 
-<form method="get">
+<button type="button" class="btn btn-success mb-3" data-bs-toggle="modal" data-bs-target="#createNewsModal">
+    Add Report
+</button>
+
+<form method="get" class="mb-3">
     <div class="row">
         <div class="col-md-3">
             <label>Start Date</label>
@@ -20,8 +24,12 @@
             <label>End Date</label>
             <input type="date" asp-for="EndDate" class="form-control" />
         </div>
+        <div class="col-md-4">
+            <label>Search</label>
+            <input type="text" name="SearchKeyword" value="@Model.SearchKeyword" class="form-control" placeholder="Enter keyword..." />
+        </div>
         <div class="col-md-2 align-self-end">
-            <button type="submit" class="btn btn-primary">Filter</button>
+            <button type="submit" class="btn btn-primary w-100">Filter</button>
         </div>
     </div>
 </form>
@@ -34,22 +42,127 @@
             <th>Created Date</th>
             <th>Modified Date</th>
             <th>Source</th>
+            <th>Category</th>
+            <th>Tag</th>
             <th>Status</th>
         </tr>
     </thead>
     <tbody>
-        @foreach (var news in Model.NewsList)
+        @foreach (var news in Model.NewsArticles)
         {
-         
             <tr>
                 <td>@news.NewsTitle</td>
                 <td>@news.Headline</td>
                 <td>@news.CreatedDate?.ToString("dd/MM/yyyy")</td>
                 <td>@news.ModifiedDate?.ToString("dd/MM/yyyy")</td>
                 <td>@(news.NewsSource ?? "N/A")</td>
+                <td>@(news.Category?.CategoryName ?? "N/A")</td>
+                <td>@(news.Tags != null && news.Tags.Any() ? news.Tags.FirstOrDefault()?.TagName : "N/A")</td>
                 <td>@(news.NewsStatus == true ? "Active" : "Hidden")</td>
             </tr>
-         
         }
     </tbody>
 </table>
+
+<!-- Create News Modal -->
+<div class="modal fade" id="createNewsModal" tabindex="-1" aria-labelledby="createNewsModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <form method="post" asp-page-handler="Create">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="createNewsModalLabel">Create News</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="mb-3">
+                        <label for="NewsArticleId" class="form-label">News Article ID</label>
+                        <input type="text" id="NewsArticleId" name="NewsArticleId" class="form-control" required />
+                    </div>
+                    <div class="mb-3">
+                        <label for="NewsTitle" class="form-label">Title</label>
+                        <input type="text" id="NewsTitle" name="NewsTitle" class="form-control" required />
+                    </div>
+                    <div class="mb-3">
+                        <label for="Headline" class="form-label">Headline</label>
+                        <input type="text" id="Headline" name="Headline" class="form-control" />
+                    </div>
+                    <div class="mb-3">
+                        <label for="NewsContent" class="form-label">Content</label>
+                        <textarea id="NewsContent" name="NewsContent" class="form-control" rows="4" required></textarea>
+                    </div>
+                    <div class="mb-3">
+                        <label for="NewsSource" class="form-label">Source</label>
+                        <input type="text" id="NewsSource" name="NewsSource" class="form-control" />
+                    </div>
+                    <div class="mb-3">
+                        <label for="CategoryId" class="form-label">Category</label>
+                        <select id="CategoryId" name="CategoryId" class="form-control">
+                            <option value="">-- Select Category --</option>
+                        </select>
+                    </div>
+                    <div class="mb-3">
+                        <label for="TagId" class="form-label">Tag</label>
+                        <select id="TagId" name="TagId" class="form-control">
+                            <option value="">-- Select Tag --</option>
+                        </select>
+                    </div>
+                    <div class="mb-3">
+                        <label for="NewsStatus" class="form-label">Status</label>
+                        <select id="NewsStatus" name="NewsStatus" class="form-select">
+                            <option value="true">Active</option>
+                            <option value="false">Inactive</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-primary">Create</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        var categories = @Html.Raw(Json.Serialize(Model.Categories.Select(c => new { c.CategoryId, c.CategoryName })));
+        var tags = @Html.Raw(Json.Serialize(Model.Tags.Select(t => new { t.TagId, t.TagName })));
+
+        $(document).ready(function () {
+            $('#createNewsModal').on('shown.bs.modal', function () {
+                loadCategories('#CategoryId');
+                loadTags('#TagId');
+            });
+        });
+
+        function loadCategories(selector, selectedId = null) {
+            let select = $(selector);
+            select.empty();
+            select.append('<option value="">-- Select Category --</option>');
+            $.each(categories, function (index, item) {
+                let option = $('<option></option>')
+                    .attr('value', item.categoryId)
+                    .text(item.categoryName);
+                if (selectedId && item.categoryId == selectedId) {
+                    option.attr('selected', 'selected');
+                }
+                select.append(option);
+            });
+        }
+
+        function loadTags(selector, selectedId = null) {
+            let select = $(selector);
+            select.empty();
+            select.append('<option value="">-- Select Tag --</option>');
+            $.each(tags || [], function (index, item) {
+                let option = $('<option></option>')
+                    .attr('value', item.tagId)
+                    .text(item.tagName);
+                if (selectedId && item.tagId == parseInt(selectedId)) {
+                    option.attr('selected', 'selected');
+                }
+                select.append(option);
+            });
+        }
+    </script>
+}

@@ -1,8 +1,8 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using NewsManagementSystem.BusinessLogic.Services;
 using NewsManagementSystem.Models;
-
 using System.Threading.Tasks;
 
 namespace NewsManagementSystem.Pages.Authentication
@@ -32,15 +32,16 @@ namespace NewsManagementSystem.Pages.Authentication
                 return Page();
             }
 
-          
             var adminEmail = _configuration["AdminAccount:Email"];
             var adminPassword = _configuration["AdminAccount:Password"];
 
             if (Login.Username == adminEmail && Login.Password == adminPassword)
             {
+               
                 return RedirectToPage("/Admin/NewsReport");
             }
 
+          
             var userId = await _accountService.Login(Login.Username, Login.Password);
             if (userId == -1)
             {
@@ -51,11 +52,14 @@ namespace NewsManagementSystem.Pages.Authentication
             var user = await _accountService.GetAccount(userId);
             if (user != null)
             {
-                if (user.AccountRole == 2) // Lecturer
+               
+                HttpContext.Session.SetInt32("AccountId", user.AccountId);
+
+                if (user.AccountRole == 2) 
                 {
                     return RedirectToPage("/Lecturer/Index");
                 }
-                else if (user.AccountRole == 1) // Staff
+                else if (user.AccountRole == 1) 
                 {
                     return RedirectToPage("/Staff/Index", new { id = userId });
                 }

@@ -17,33 +17,90 @@ namespace NewsManagementSystem.Pages.Staff
         }
 
         public IEnumerable<Category> Categories { get; set; }
-        [BindProperty(SupportsGet = true)]
-        public short? AccountId { get; set; }
 
-        public async Task OnGetAsync()
+        [BindProperty(SupportsGet = true)]
+        public string AccountId { get; set; }
+
+        [TempData]
+        public string ErrorMessage { get; set; }
+
+        [TempData]
+        public string SuccessMessage { get; set; }
+
+        public async Task<IActionResult> OnGetAsync()
         {
-            Categories = await _categoryService.GetAllCategories();
+          
+            AccountId = HttpContext.Session.GetString("AccountId");
+            if (string.IsNullOrEmpty(AccountId))
+            {
+              
+                return RedirectToPage("/Authentication/Index");
+            }
+
+           
+            ViewData["AccountId"] = AccountId;
+
+            await LoadDataAsync();
+            return Page();
         }
 
-        public async Task<IActionResult> OnPostCreateAsync(Category category)
+        public async Task<IActionResult> OnPostCreateAsync([FromForm] Category category)
         {
             if (!ModelState.IsValid)
             {
-                TempData["ErrorMessage"] = "Invalid data";
-                return RedirectToPage();
+                await LoadDataAsync();
+                ErrorMessage = "Invalid data. Please check your inputs.";
+                return Page();
             }
-            await _categoryService.AddCategory(category);
+
+            try
+            {
+                await _categoryService.AddCategory(category);
+                SuccessMessage = "Category created successfully!";
+            }
+            catch (Exception ex)
+            {
+                await LoadDataAsync();
+                ErrorMessage = $"Failed to create category: {ex.Message}";
+                return Page();
+            }
+
             return RedirectToPage();
         }
 
-        public async Task<IActionResult> OnPostEditAsync(Category category)
+        public async Task<IActionResult> OnPostEditAsync([FromForm] Category category)
         {
             if (!ModelState.IsValid)
             {
-                TempData["ErrorMessage"] = "Invalid data";
-                return RedirectToPage();
+                await LoadDataAsync();
+                ErrorMessage = "Invalid data. Please check your inputs.";
+                return Page();
             }
-            await _categoryService.UpdateCategory(category);
+
+            try
+            {
+                var existingCategory = await _categoryService.GetCategoryById(category.CategoryId);
+                if (existingCategory == null)
+                {
+                    ErrorMessage = "Category not found.";
+                    return NotFound();
+                }
+
+                existingCategory.CategoryName = category.CategoryName;
+                existingCategory.CategoryDesciption = category.CategoryDesciption ?? existingCategory.CategoryDesciption;
+                existingCategory.ParentCategoryId = category.ParentCategoryId ?? existingCategory.ParentCategoryId;
+                existingCategory.IsActive = category.IsActive ?? existingCategory.IsActive;
+
+                await _categoryService.UpdateCategory(existingCategory);
+                SuccessMessage = "Category updated successfully!";
+            }
+            catch (Exception ex)
+            {
+                await LoadDataAsync();
+                ErrorMessage = $"Failed to update category: {ex.Message}";
+                return Page();
+            }
+
             return RedirectToPage();
         }
 
@@ -51,13 +108,27 @@ namespace NewsManagementSystem.Pages.Staff
         {
             try
             {
+                var category = await _categoryService.GetCategoryById(id);
+                if (category == null)
+                {
+                    ErrorMessage = "Category not found.";
+                    return NotFound();
+                }
+
                 await _categoryService.DeleteCategory(id);
+                SuccessMessage = "Category deleted successfully!";
             }
-            catch
+            catch (Exception ex)
             {
-                TempData["ErrorMessage"] = "Category is being used by news articles.";
+                ErrorMessage = $"Failed to delete category: {ex.Message}";
             }
+
             return RedirectToPage();
+        }
+
+        private async Task LoadDataAsync()
+        {
+            Categories = await _categoryService.GetAllCategories();
         }
     }
 }

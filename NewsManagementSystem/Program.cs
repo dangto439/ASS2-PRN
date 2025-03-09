@@ -1,9 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 using NewsManagementSystem.DataAccess.Models;
-using Microsoft.AspNetCore.Builder;
-using NewsManagementSystem.Pages.Hubs;
 using NewsManagementSystem.BusinessLogic.Services;
 using NewsManagementSystem.DataAccess.Repositories;
+using NewsManagementSystem.Hubs;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
@@ -12,11 +11,14 @@ builder.Services.AddDbContext<FunewsManagementContext>(options =>
 // Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddSignalR();
+builder.Services.AddSession();
+builder.Services.AddDistributedMemoryCache(); 
 
 builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
 builder.Services.AddScoped<AccountService>();
 builder.Services.AddScoped<CategoryService>();
 builder.Services.AddScoped<NewsService>();
+builder.Services.AddScoped<TagService>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -31,11 +33,11 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
-
+app.UseSession();
 app.UseAuthorization();
-app.MapHub<NewsHub>("/newsHub");
 
 app.MapRazorPages();
 app.MapGet("/", () => Results.Redirect("/Authencation/Index"));
+app.MapHub<NewsHub>("/newshub");
 
 app.Run();
