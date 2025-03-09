@@ -1,0 +1,55 @@
+﻿@page
+@model NewsManagementSystem.Pages.Admin.NewsReportModel
+@{
+    ViewData["Title"] = "News Report";
+}
+
+<h2>News Report</h2>
+
+<a asp-page="/Admin/UserManagement" class="btn btn-secondary mb-3">
+    Manage Users
+</a>
+
+<form method="get">
+    <div class="row">
+        <div class="col-md-3">
+            <label>Start Date</label>
+            <input type="date" asp-for="StartDate" class="form-control" />
+        </div>
+        <div class="col-md-3">
+            <label>End Date</label>
+            <input type="date" asp-for="EndDate" class="form-control" />
+        </div>
+        <div class="col-md-2 align-self-end">
+            <button type="submit" class="btn btn-primary">Filter</button>
+        </div>
+    </div>
+</form>
+
+<table class="table table-striped mt-4">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Headline</th>
+            <th>Created Date</th>
+            <th>Modified Date</th>
+            <th>Source</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var news in Model.NewsList)
+        {
+         
+            <tr>
+                <td>@news.NewsTitle</td>
+                <td>@news.Headline</td>
+                <td>@news.CreatedDate?.ToString("dd/MM/yyyy")</td>
+                <td>@news.ModifiedDate?.ToString("dd/MM/yyyy")</td>
+                <td>@(news.NewsSource ?? "N/A")</td>
+                <td>@(news.NewsStatus == true ? "Active" : "Hidden")</td>
+            </tr>
+         
+        }
+    </tbody>
+</table>

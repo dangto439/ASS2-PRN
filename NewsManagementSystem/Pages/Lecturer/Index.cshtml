@@ -1,0 +1,47 @@
+﻿@page
+@model NewsManagementSystem.Pages.News.IndexModel
+@{
+    ViewData["Title"] = "News List";
+}
+
+<h2>News List</h2>
+
+<form method="get">
+    <div class="form-group">
+        <label>Search by Title:</label>
+        <input type="text" asp-for="SearchTitle" class="form-control" />
+        <button type="submit" class="btn btn-primary mt-2">Search</button>
+    </div>
+</form>
+
+<table class="table table-bordered mt-3">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Headline</th>
+            <th>Created Date</th>
+            <th>Content</th>
+            <th>Source</th>
+            <th>Status</th>
+            <th>Category</th>
+            <th>Created By</th>
+          
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.NewsList)
+        {
+            <tr>
+                <td>@item.NewsTitle</td>
+                <td>@item.Headline</td>
+                <td>@item.CreatedDate?.ToShortDateString()</td>
+                <td>@item.NewsContent</td>
+                <td>@item.NewsSource</td>
+                <td>@(item.NewsStatus.HasValue && item.NewsStatus.Value ? "Active" : "Inactive")</td>
+                <td>@item.Category?.CategoryDesciption</td>
+                <td>@item.CreatedBy?.AccountName</td>
+               
+            </tr>
+        }
+    </tbody>
+</table>

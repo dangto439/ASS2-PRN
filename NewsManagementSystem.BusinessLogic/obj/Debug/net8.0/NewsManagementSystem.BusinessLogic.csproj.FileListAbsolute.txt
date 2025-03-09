@@ -1,0 +1,30 @@
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem.BusinessLogic\bin\Debug\net8.0\NewsManagementSystem.BusinessLogic.deps.json
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem.BusinessLogic\bin\Debug\net8.0\NewsManagementSystem.BusinessLogic.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem.BusinessLogic\bin\Debug\net8.0\NewsManagementSystem.BusinessLogic.pdb
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem.BusinessLogic\bin\Debug\net8.0\NewsManagementSystem.DataAccess.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem.BusinessLogic\bin\Debug\net8.0\NewsManagementSystem.DataAccess.pdb
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem.BusinessLogic\obj\Debug\net8.0\NewsManagementSystem.BusinessLogic.csproj.AssemblyReference.cache
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem.BusinessLogic\obj\Debug\net8.0\NewsManagementSystem.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem.BusinessLogic\obj\Debug\net8.0\NewsManagementSystem.BusinessLogic.AssemblyInfoInputs.cache
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem.BusinessLogic\obj\Debug\net8.0\NewsManagementSystem.BusinessLogic.AssemblyInfo.cs
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem.BusinessLogic\obj\Debug\net8.0\NewsManagementSystem.BusinessLogic.csproj.CoreCompileInputs.cache
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem.BusinessLogic\obj\Debug\net8.0\NewsMana.19DB1920.Up2Date
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem.BusinessLogic\obj\Debug\net8.0\NewsManagementSystem.BusinessLogic.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem.BusinessLogic\obj\Debug\net8.0\refint\NewsManagementSystem.BusinessLogic.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem.BusinessLogic\obj\Debug\net8.0\NewsManagementSystem.BusinessLogic.pdb
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem.BusinessLogic\obj\Debug\net8.0\ref\NewsManagementSystem.BusinessLogic.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem.BusinessLogic\bin\Debug\net8.0\NewsManagementSystem.BusinessLogic.deps.json
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem.BusinessLogic\bin\Debug\net8.0\NewsManagementSystem.BusinessLogic.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem.BusinessLogic\bin\Debug\net8.0\NewsManagementSystem.BusinessLogic.pdb
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem.BusinessLogic\bin\Debug\net8.0\NewsManagementSystem.DataAccess.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem.BusinessLogic\bin\Debug\net8.0\NewsManagementSystem.DataAccess.pdb
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem.BusinessLogic\obj\Debug\net8.0\NewsManagementSystem.BusinessLogic.csproj.AssemblyReference.cache
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem.BusinessLogic\obj\Debug\net8.0\NewsManagementSystem.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem.BusinessLogic\obj\Debug\net8.0\NewsManagementSystem.BusinessLogic.AssemblyInfoInputs.cache
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem.BusinessLogic\obj\Debug\net8.0\NewsManagementSystem.BusinessLogic.AssemblyInfo.cs
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem.BusinessLogic\obj\Debug\net8.0\NewsManagementSystem.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem.BusinessLogic\obj\Debug\net8.0\NewsMana.19DB1920.Up2Date
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem.BusinessLogic\obj\Debug\net8.0\NewsManagementSystem.BusinessLogic.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem.BusinessLogic\obj\Debug\net8.0\refint\NewsManagementSystem.BusinessLogic.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem.BusinessLogic\obj\Debug\net8.0\NewsManagementSystem.BusinessLogic.pdb
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem.BusinessLogic\obj\Debug\net8.0\ref\NewsManagementSystem.BusinessLogic.dll

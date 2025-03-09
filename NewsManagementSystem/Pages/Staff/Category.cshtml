@@ -1,0 +1,115 @@
+﻿@page
+@model NewsManagementSystem.Pages.Staff.CategoryModel
+@{
+    ViewData["Title"] = "Category";
+}
+
+<h1>Category</h1>
+
+<a asp-page="/Staff/Index" asp-route-id="@ViewBag.AccountId" class="btn btn-primary mb-3">Profile</a>
+<a asp-page="/Staff/News" class="btn btn-secondary mb-3">News</a>
+<a asp-page="/Staff/Category" class="btn btn-danger mb-3">Category</a>
+<button class="btn btn-success mb-3" data-bs-toggle="modal" data-bs-target="#createCategoryModal">
+    Create New
+</button>
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+}
+
+<table class="table table-bordered">
+    <thead class="table-dark">
+        <tr>
+            <th>Category Name</th>
+            <th>Description</th>
+            <th>Status</th>
+            <th>Parent Category ID</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Categories)
+        {
+            <tr>
+                <td>@item.CategoryName</td>
+                <td>@item.CategoryDesciption</td>
+                <td>@(item.IsActive.HasValue && item.IsActive.Value ? "Active" : "Inactive")</td>
+                <td>@(item.ParentCategoryId?.ToString() ?? "None")</td>
+                <td>
+                    <button class="btn btn-warning btn-sm" onclick="openEditModal('@item.CategoryId','@item.CategoryName','@item.CategoryDesciption','@item.ParentCategoryId','@item.IsActive')">Edit</button>
+                    <a asp-page-handler="Delete" asp-route-id="@item.CategoryId" class="btn btn-danger btn-sm"
+                       onclick="return confirm('Are you sure to delete this category?')">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!-- Modal Create -->
+<div class="modal fade" id="createCategoryModal">
+    <div class="modal-dialog">
+        <form method="post" asp-page-handler="Create">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5>Create Category</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                </div>
+                <div class="modal-body">
+                    <input class="form-control mb-2" name="CategoryName" placeholder="Name" required />
+                    <input class="form-control mb-2" name="CategoryDesciption" placeholder="Description" />
+                    <input class="form-control mb-2" name="ParentCategoryId" placeholder="Parent Category ID" type="number" />
+                    <select class="form-select" name="IsActive">
+                        <option value="true">Active</option>
+                        <option value="false">Inactive</option>
+                    </select>
+                </div>
+                <div class="modal-footer">
+                    <button class="btn btn-primary">Create</button>
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+<!-- Modal Edit -->
+<div class="modal fade" id="editCategoryModal">
+    <div class="modal-dialog">
+        <form method="post" asp-page-handler="Edit">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5>Edit Category</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                </div>
+                <div class="modal-body">
+                    <input type="hidden" id="EditCategoryId" name="CategoryId" />
+                    <input class="form-control mb-2" id="EditCategoryName" name="CategoryName" required />
+                    <input class="form-control mb-2" id="EditCategoryDesciption" name="CategoryDesciption" />
+                    <input class="form-control mb-2" id="EditParentCategoryId" name="ParentCategoryId" type="number" />
+                    <select class="form-select" id="EditIsActive" name="IsActive">
+                        <option value="true">Active</option>
+                        <option value="false">Inactive</option>
+                    </select>
+                </div>
+                <div class="modal-footer">
+                    <button class="btn btn-primary">Update</button>
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        function openEditModal(id, name, description, parentId, isActive) {
+            $('#EditCategoryId').val(id);
+            $('#EditCategoryName').val(name);
+            $('#EditCategoryDesciption').val(description);
+            $('#EditParentCategoryId').val(parentId);
+            $('#EditIsActive').val(isActive);
+            new bootstrap.Modal(document.getElementById('editCategoryModal')).show();
+        }
+    </script>
+}

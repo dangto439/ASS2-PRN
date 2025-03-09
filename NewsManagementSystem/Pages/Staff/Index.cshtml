@@ -1,0 +1,55 @@
+﻿@page "{id}"
+@model NewsManagementSystem.Pages.Staff.IndexModel
+@{
+    ViewData["Title"] = "Staff Profile";
+}
+
+<h4>Staff Profile</h4>
+
+<a asp-page="/Staff/News"  class="btn btn-secondary mb-3">
+    News 
+</a>
+<a asp-page="/Staff/Category"  class="btn btn-secondary mb-3">
+    Category
+</a>
+<a asp-page="/Staff/ChangePassword" asp-route-id="@Model.Account.AccountId" class="btn btn-warning mb-3">Change Password</a>
+
+<hr />
+
+@if (Model.Account != null)
+{
+    <div class="row">
+        <div class="col-md-4">
+            <form method="post">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <input type="hidden" asp-for="Account.AccountId" />
+
+                <div class="form-group">
+                    <label asp-for="Account.AccountName"></label>
+                    <input asp-for="Account.AccountName" class="form-control" />
+                    <span asp-validation-for="Account.AccountName" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Account.AccountEmail"></label>
+                    <input asp-for="Account.AccountEmail" type="email" class="form-control" />
+                    <span asp-validation-for="Account.AccountEmail" class="text-danger"></span>
+                </div>
+
+                <input asp-for="Account.AccountRole" type="hidden" />
+                <input type="hidden" asp-for="Account.AccountId" />
+
+                <button type="submit" class="btn btn-primary">Save Changes</button>
+            </form>
+        </div>
+    </div>
+}
+else
+{
+    <p class="text-danger">Account not found.</p>
+}
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

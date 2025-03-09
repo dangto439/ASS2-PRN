@@ -1,0 +1,202 @@
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\appsettings.Development.json
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\appsettings.json
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\NewsManagementSystem.staticwebassets.runtime.json
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\NewsManagementSystem.exe
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\NewsManagementSystem.deps.json
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\NewsManagementSystem.runtimeconfig.json
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\NewsManagementSystem.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\NewsManagementSystem.pdb
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\Azure.Core.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\Azure.Identity.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\System.ClientModel.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\System.Memory.Data.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\System.Text.Json.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\NewsManagementSystem.BusinessLogic.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\NewsManagementSystem.DataAccess.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\NewsManagementSystem.BusinessLogic.pdb
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\bin\Debug\net8.0\NewsManagementSystem.DataAccess.pdb
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\obj\Debug\net8.0\NewsManagementSystem.csproj.AssemblyReference.cache
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\obj\Debug\net8.0\NewsManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\obj\Debug\net8.0\NewsManagementSystem.AssemblyInfoInputs.cache
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\obj\Debug\net8.0\NewsManagementSystem.AssemblyInfo.cs
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\obj\Debug\net8.0\NewsManagementSystem.csproj.CoreCompileInputs.cache
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\obj\Debug\net8.0\NewsManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\obj\Debug\net8.0\NewsManagementSystem.RazorAssemblyInfo.cache
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\obj\Debug\net8.0\NewsManagementSystem.RazorAssemblyInfo.cs
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\obj\Debug\net8.0\staticwebassets.build.json
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\obj\Debug\net8.0\staticwebassets.development.json
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.NewsManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.NewsManagementSystem.props
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NewsManagementSystem.props
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NewsManagementSystem.props
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\obj\Debug\net8.0\staticwebassets.pack.json
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\obj\Debug\net8.0\scopedcss\bundle\NewsManagementSystem.styles.css
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\obj\Debug\net8.0\scopedcss\projectbundle\NewsManagementSystem.bundle.scp.css
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\obj\Debug\net8.0\NewsMana.1ED8BA1D.Up2Date
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\obj\Debug\net8.0\NewsManagementSystem.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\obj\Debug\net8.0\refint\NewsManagementSystem.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\obj\Debug\net8.0\NewsManagementSystem.pdb
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\obj\Debug\net8.0\NewsManagementSystem.genruntimeconfig.cache
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem\obj\Debug\net8.0\ref\NewsManagementSystem.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\appsettings.Development.json
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\appsettings.json
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\NewsManagementSystem.staticwebassets.runtime.json
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\NewsManagementSystem.exe
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\NewsManagementSystem.deps.json
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\NewsManagementSystem.runtimeconfig.json
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\NewsManagementSystem.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\NewsManagementSystem.pdb
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\Azure.Core.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\Azure.Identity.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\System.ClientModel.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\System.Text.Json.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\NewsManagementSystem.BusinessLogic.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\NewsManagementSystem.DataAccess.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\NewsManagementSystem.BusinessLogic.pdb
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\bin\Debug\net8.0\NewsManagementSystem.DataAccess.pdb
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\obj\Debug\net8.0\NewsManagementSystem.csproj.AssemblyReference.cache
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\obj\Debug\net8.0\NewsManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\obj\Debug\net8.0\NewsManagementSystem.AssemblyInfoInputs.cache
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\obj\Debug\net8.0\NewsManagementSystem.AssemblyInfo.cs
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\obj\Debug\net8.0\NewsManagementSystem.csproj.CoreCompileInputs.cache
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\obj\Debug\net8.0\NewsManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\obj\Debug\net8.0\NewsManagementSystem.RazorAssemblyInfo.cache
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\obj\Debug\net8.0\NewsManagementSystem.RazorAssemblyInfo.cs
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\obj\Debug\net8.0\staticwebassets.build.json
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\obj\Debug\net8.0\staticwebassets.development.json
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.NewsManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.NewsManagementSystem.props
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NewsManagementSystem.props
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NewsManagementSystem.props
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\obj\Debug\net8.0\scopedcss\bundle\NewsManagementSystem.styles.css
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\obj\Debug\net8.0\scopedcss\projectbundle\NewsManagementSystem.bundle.scp.css
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\obj\Debug\net8.0\NewsMana.1ED8BA1D.Up2Date
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\obj\Debug\net8.0\NewsManagementSystem.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\obj\Debug\net8.0\refint\NewsManagementSystem.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\obj\Debug\net8.0\NewsManagementSystem.pdb
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\obj\Debug\net8.0\NewsManagementSystem.genruntimeconfig.cache
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem\obj\Debug\net8.0\ref\NewsManagementSystem.dll

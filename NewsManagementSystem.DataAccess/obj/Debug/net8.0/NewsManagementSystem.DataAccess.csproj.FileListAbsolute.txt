@@ -1,0 +1,28 @@
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem.DataAccess\bin\Debug\net8.0\NewsManagementSystem.DataAccess.deps.json
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem.DataAccess\bin\Debug\net8.0\NewsManagementSystem.DataAccess.runtimeconfig.json
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem.DataAccess\bin\Debug\net8.0\NewsManagementSystem.DataAccess.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem.DataAccess\bin\Debug\net8.0\NewsManagementSystem.DataAccess.pdb
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem.DataAccess\obj\Debug\net8.0\NewsManagementSystem.DataAccess.csproj.AssemblyReference.cache
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem.DataAccess\obj\Debug\net8.0\NewsManagementSystem.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem.DataAccess\obj\Debug\net8.0\NewsManagementSystem.DataAccess.AssemblyInfoInputs.cache
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem.DataAccess\obj\Debug\net8.0\NewsManagementSystem.DataAccess.AssemblyInfo.cs
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem.DataAccess\obj\Debug\net8.0\NewsManagementSystem.DataAccess.csproj.CoreCompileInputs.cache
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem.DataAccess\obj\Debug\net8.0\NewsManagementSystem.DataAccess.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem.DataAccess\obj\Debug\net8.0\refint\NewsManagementSystem.DataAccess.dll
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem.DataAccess\obj\Debug\net8.0\NewsManagementSystem.DataAccess.pdb
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem.DataAccess\obj\Debug\net8.0\NewsManagementSystem.DataAccess.genruntimeconfig.cache
+E:\dotritrong\PRN222\PRN222_Assignment 02\NewsManagementSystem.DataAccess\obj\Debug\net8.0\ref\NewsManagementSystem.DataAccess.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem.DataAccess\bin\Debug\net8.0\NewsManagementSystem.DataAccess.deps.json
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem.DataAccess\bin\Debug\net8.0\NewsManagementSystem.DataAccess.runtimeconfig.json
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem.DataAccess\bin\Debug\net8.0\NewsManagementSystem.DataAccess.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem.DataAccess\bin\Debug\net8.0\NewsManagementSystem.DataAccess.pdb
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem.DataAccess\obj\Debug\net8.0\NewsManagementSystem.DataAccess.csproj.AssemblyReference.cache
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem.DataAccess\obj\Debug\net8.0\NewsManagementSystem.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem.DataAccess\obj\Debug\net8.0\NewsManagementSystem.DataAccess.AssemblyInfoInputs.cache
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem.DataAccess\obj\Debug\net8.0\NewsManagementSystem.DataAccess.AssemblyInfo.cs
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem.DataAccess\obj\Debug\net8.0\NewsManagementSystem.DataAccess.csproj.CoreCompileInputs.cache
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem.DataAccess\obj\Debug\net8.0\NewsManagementSystem.DataAccess.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem.DataAccess\obj\Debug\net8.0\refint\NewsManagementSystem.DataAccess.dll
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem.DataAccess\obj\Debug\net8.0\NewsManagementSystem.DataAccess.pdb
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem.DataAccess\obj\Debug\net8.0\NewsManagementSystem.DataAccess.genruntimeconfig.cache
+D:\Downloads\PRN222_Assignment02\PRN222_Assignment02\NewsManagementSystem.DataAccess\obj\Debug\net8.0\ref\NewsManagementSystem.DataAccess.dll

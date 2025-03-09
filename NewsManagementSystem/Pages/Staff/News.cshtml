@@ -1,0 +1,251 @@
+﻿@page
+@model NewsManagementSystem.Pages.Staff.NewsModel
+@using NewsManagementSystem.DataAccess.Models
+@{
+    ViewData["Title"] = "News";
+}
+
+<h1>News</h1>
+<a asp-page="/Staff/Index" asp-route-id="@ViewBag.AccountId" class="btn btn-primary mb-3">Profile</a>
+<a asp-page="/Staff/News" class="btn btn-secondary mb-3">News</a>
+<a asp-page="/Staff/Category" class="btn btn-danger mb-3">Category</a>
+
+<button type="button" class="btn btn-success mb-3" data-bs-toggle="modal" data-bs-target="#createNewsModal">Create New</button>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Headline</th>
+            <th>Created Date</th>
+            <th>Content</th>
+            <th>Source</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.NewsArticles != null)
+        {
+            @foreach (var item in Model.NewsArticles)
+            {
+                <tr>
+                    <td>@item.NewsTitle</td>
+                    <td>@item.Headline</td>
+                    <td>@item.CreatedDate?.ToString("yyyy-MM-dd HH:mm")</td>
+                    <td>@item.NewsContent</td>
+                    <td>@item.NewsSource</td>
+                    <td>@(item.NewsStatus.HasValue && item.NewsStatus.Value ? "Active" : "Inactive")</td>
+                    <td>
+                        <button class="btn btn-warning btn-sm"
+                                onclick="openEditModal('@item.NewsArticleId',
+                                    '@System.Web.HttpUtility.JavaScriptStringEncode(item.NewsTitle)',
+                                    '@System.Web.HttpUtility.JavaScriptStringEncode(item.Headline ?? "")',
+                                    '@(item.CreatedDate?.ToString("yyyy-MM-ddTHH:mm") ?? "")',
+                                    '@System.Web.HttpUtility.JavaScriptStringEncode(item.NewsContent)',
+                                    '@System.Web.HttpUtility.JavaScriptStringEncode(item.NewsSource ?? "")',                             
+                                    '@item.NewsStatus',                               
+                                    '@(item.ModifiedDate?.ToString("yyyy-MM-ddTHH:mm") ?? "")')">
+                            Edit
+                        </button>
+                        <form method="post" asp-page-handler="Delete" class="d-inline">
+                            <input type="hidden" name="id" value="@item.NewsArticleId" />
+                            <button type="submit" class="btn btn-danger btn-sm" onclick="return confirm('Are you sure you want to delete this news?')">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+
+<!-- Create News Modal -->
+<div class="modal fade" id="createNewsModal" tabindex="-1" aria-labelledby="createNewsModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="createNewsModalLabel">Create News</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form method="post" asp-page-handler="Create">
+                    <div class="mb-3">
+                        <label for="NewsArticleId" class="form-label">News Article ID</label>
+                        <input type="text" id="NewsArticleId" name="NewsArticleId" class="form-control" required />
+                    </div>
+                    <div class="mb-3">
+                        <label for="NewsTitle" class="form-label">Title</label>
+                        <input type="text" id="NewsTitle" name="NewsTitle" class="form-control" required />
+                    </div>
+                    <div class="mb-3">
+                        <label for="Headline" class="form-label">Headline</label>
+                        <input type="text" id="Headline" name="Headline" class="form-control" />
+                    </div>
+                    <div class="mb-3">
+                        <label for="CreatedDate" class="form-label">Created Date</label>
+                        <input type="datetime-local" id="CreatedDate" name="CreatedDate" class="form-control" />
+                    </div>
+                    <div class="mb-3">
+                        <label for="NewsContent" class="form-label">Content</label>
+                        <textarea id="NewsContent" name="NewsContent" class="form-control" rows="4" required></textarea>
+                    </div>
+                    <div class="mb-3">
+                        <label for="NewsSource" class="form-label">Source</label>
+                        <input type="text" id="NewsSource" name="NewsSource" class="form-control" />
+                    </div>
+                    <div class="mb-3">
+                        <label for="CategoryId" class="form-label">Category</label>
+                        <select id="CategoryId" name="CategoryId" class="form-control">
+                            <option value="">-- Select Category --</option>
+                        </select>
+                    </div>
+                    <div class="mb-3">
+                        <label for="NewsStatus" class="form-label">Status</label>
+                        <select id="NewsStatus" name="NewsStatus" class="form-select">
+                            <option value="true">Active</option>
+                            <option value="false">Inactive</option>
+                        </select>
+                    </div>
+                    <div class="mb-3">
+                        <label for="CreatedById" class="form-label">Created By</label>
+                        <select id="CreatedById" name="CreatedById" class="form-control">
+                            <option value="">-- Select Account --</option>
+                        </select>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                        <button type="submit" class="btn btn-primary">Create</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Edit News Modal -->
+<div class="modal fade" id="editNewsModal" tabindex="-1" aria-labelledby="editNewsModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="editNewsModalLabel">Edit News</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form method="post" asp-page-handler="Edit">
+                    <input type="hidden" id="EditNewsArticleId" name="NewsArticleId" />
+                    <div class="mb-3">
+                        <label for="EditNewsTitle" class="form-label">Title</label>
+                        <input type="text" id="EditNewsTitle" name="NewsTitle" class="form-control" required />
+                    </div>
+                    <div class="mb-3">
+                        <label for="EditHeadline" class="form-label">Headline</label>
+                        <input type="text" id="EditHeadline" name="Headline" class="form-control" />
+                    </div>
+                    <div class="mb-3">
+                        <label for="EditCreatedDate" class="form-label">Created Date</label>
+                        <input type="datetime-local" id="EditCreatedDate" name="CreatedDate" class="form-control" />
+                    </div>
+                    <div class="mb-3">
+                        <label for="EditNewsContent" class="form-label">Content</label>
+                        <textarea id="EditNewsContent" name="NewsContent" class="form-control" rows="4" required></textarea>
+                    </div>
+                    <div class="mb-3">
+                        <label for="EditNewsSource" class="form-label">Source</label>
+                        <input type="text" id="EditNewsSource" name="NewsSource" class="form-control" />
+                    </div>
+                    <div class="mb-3">
+                        <label for="EditCategoryId" class="form-label">Category</label>
+                        <select id="EditCategoryId" name="CategoryId" class="form-control">
+                            <option value="">-- Select Category --</option>
+                        </select>
+                    </div>
+                    <div class="mb-3">
+                        <label for="EditNewsStatus" class="form-label">Status</label>
+                        <select id="EditNewsStatus" name="NewsStatus" class="form-select">
+                            <option value="true">Active</option>
+                            <option value="false">Inactive</option>
+                        </select>
+                    </div>
+                    <div class="mb-3">
+                        <label for="EditUpdatedById" class="form-label">Updated By</label>
+                        <select id="EditUpdatedById" name="UpdatedById" class="form-control">
+                            <option value="">-- Select Account --</option>
+                        </select>
+                    </div>
+                    <div class="mb-3">
+                        <label for="EditModifiedDate" class="form-label">Modified Date</label>
+                        <input type="datetime-local" id="EditModifiedDate" name="ModifiedDate" class="form-control" />
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                        <button type="submit" class="btn btn-primary">Update</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        var categories = @Html.Raw(Json.Serialize(Model.Categories.Select(c => new { c.CategoryId, c.CategoryDesciption })));
+        var accounts = @Html.Raw(Json.Serialize(Model.Accounts.Select(a => new { a.AccountId, a.AccountName })));
+
+        $(document).ready(function () {
+            // Tải dữ liệu khi modal tạo mới mở
+            $('#createNewsModal').on('shown.bs.modal', function () {
+                loadCategories('#CategoryId');
+                loadAccounts('#CreatedById');
+            });
+
+            // Tải dữ liệu khi modal chỉnh sửa mở
+            $('#editNewsModal').on('shown.bs.modal', function () {
+                // Dữ liệu đã được tải trong openEditModal, không cần gọi lại ở đây
+            });
+        });
+
+        function openEditModal(id, title, headline, createdDate, content, source, categoryId, status, updatedById, modifiedDate) {
+            $('#EditNewsArticleId').val(id || "");
+            $('#EditNewsTitle').val(title || "");
+            $('#EditHeadline').val(headline || "");
+            $('#EditCreatedDate').val(createdDate || "");
+            $('#EditNewsContent').val(content || "");
+            $('#EditNewsSource').val(source || "");
+            loadCategories('#EditCategoryId', categoryId); // Tải danh mục và chọn giá trị hiện tại
+            $('#EditNewsStatus').val(status === "True" || status === "true" ? "true" : "false");
+            loadAccounts('#EditUpdatedById', updatedById); // Tải tài khoản và chọn giá trị hiện tại
+            $('#EditModifiedDate').val(modifiedDate || "");
+            $('#editNewsModal').modal('show');
+        }
+
+        function loadCategories(selector, selectedId = null) {
+            let select = $(selector);
+            select.empty();
+            select.append('<option value="">-- Select Category --</option>');
+            $.each(categories, function (index, item) {
+                let option = $('<option></option>')
+                    .attr('value', item.categoryId)
+                    .text(item.categoryDesciption);
+                if (item.categoryId == selectedId) {
+                    option.attr('selected', 'selected');
+                }
+                select.append(option);
+            });
+        }
+
+        function loadAccounts(selector, selectedId = null) {
+            let select = $(selector);
+            select.empty();
+            select.append('<option value="">-- Select Account --</option>');
+            $.each(accounts, function (index, item) {
+                let option = $('<option></option>')
+                    .attr('value', item.accountId)
+                    .text(item.accountName);
+                if (item.accountId == selectedId) {
+                    option.attr('selected', 'selected');
+                }
+                select.append(option);
+            });
+        }
+    </script>
+}
